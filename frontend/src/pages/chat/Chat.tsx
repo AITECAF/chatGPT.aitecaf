@@ -7,7 +7,7 @@ import remarkGfm from 'remark-gfm'
 import rehypeRaw from "rehype-raw"; 
 
 import styles from "./Chat.module.css";
-import Azure from "../../assets/Azure.svg";
+import Aitecaf from "../../assets/Aitecaf.png";
 
 import {
     ChatMessage,
@@ -159,7 +159,7 @@ const Chat = () => {
                         {!lastQuestionRef.current ? (
                             <Stack className={styles.chatEmptyState}>
                                 <img
-                                    src={Azure}
+                                    src={Aitecaf}
                                     className={styles.chatIcon}
                                     aria-hidden="true"
                                 />
