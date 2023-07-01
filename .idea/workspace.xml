@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1b0f7de-8e0f-4e5c-b718-a4cf1600e724" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/Azure.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/chat/Chat.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/chat/Chat.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/Azure-30d5e7c0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/index-97ad713f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/index-97ad713f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/index-b850caaa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Rq3FazcjkVsYtXIRJzKkgIn1y5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/projects/chatGPT.aitecaf/frontend/src/assets",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "E:\\projects\\chatGPT.aitecaf\\frontend\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\chatGPT.aitecaf\frontend\src\assets" />
+      <recent name="E:\projects\chatGPT.aitecaf\frontend\public" />
+      <recent name="E:\projects\chatGPT.aitecaf\static\assets" />
+      <recent name="E:\projects\chatGPT.aitecaf\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\chatGPT.aitecaf\static\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="chatGPT.aitecaf" type="PythonConfigurationType" factoryName="Python">
+      <module name="chatGPT.aitecaf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1b0f7de-8e0f-4e5c-b718-a4cf1600e724" name="Changes" comment="" />
+      <created>1687963681892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687963681892</updated>
+      <workItem from="1687963685362" duration="8751000" />
+      <workItem from="1688173285767" duration="97000" />
+      <workItem from="1688247896384" duration="2396000" />
+      <workItem from="1688250339232" duration="3241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
