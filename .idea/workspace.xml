@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b0f7de-8e0f-4e5c-b718-a4cf1600e724" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/Aitecaf.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/chatGPT.aitecaf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chatGPT.aitecaf.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/Azure.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/assets/Azure.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/chat/Chat.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/chat/Chat.module.css" afterDir="false" />
+    <list default="true" id="a1b0f7de-8e0f-4e5c-b718-a4cf1600e724" name="Changes" comment="remove auth">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/pages/chat/Chat.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/chat/Chat.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +30,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/projects/chatGPT.aitecaf/frontend/src/assets",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PyCharm 2022.1.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
+    "ts.external.directory.path": "E:\\projects\\chatGPT.aitecaf\\frontend\\node_modules\\typescript\\lib"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -87,8 +79,16 @@
       <workItem from="1687963685362" duration="8751000" />
       <workItem from="1688173285767" duration="97000" />
       <workItem from="1688247896384" duration="2396000" />
-      <workItem from="1688250339232" duration="3807000" />
+      <workItem from="1688250339232" duration="5275000" />
     </task>
+    <task id="LOCAL-00001" summary="remove auth">
+      <created>1688254285991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688254285991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove auth" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove auth" />
   </component>
 </project>
