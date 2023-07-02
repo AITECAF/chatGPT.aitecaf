@@ -3,12 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="a1b0f7de-8e0f-4e5c-b718-a4cf1600e724" name="Changes" comment="remove auth">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/azure.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/pages/chat/Chat.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/chat/Chat.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/layout/Layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +44,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/projects/chatGPT.aitecaf/frontend/src/assets",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "E:\\projects\\chatGPT.aitecaf\\frontend\\node_modules\\typescript\\lib"
   }
 }]]></component>
@@ -79,7 +94,7 @@
       <workItem from="1687963685362" duration="8751000" />
       <workItem from="1688173285767" duration="97000" />
       <workItem from="1688247896384" duration="2396000" />
-      <workItem from="1688250339232" duration="5275000" />
+      <workItem from="1688250339232" duration="7351000" />
     </task>
     <task id="LOCAL-00001" summary="remove auth">
       <created>1688254285991</created>
