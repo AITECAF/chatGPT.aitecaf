@@ -168,6 +168,5 @@ const Chat = () => {
             </Stack>
         </div>
     );
-};
 
 export default Chat;
